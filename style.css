@@ -190,7 +190,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--primary-color);
+    background-color: var(--background-dark-primary);
     background-size: cover;
     background-position: center;
 }
